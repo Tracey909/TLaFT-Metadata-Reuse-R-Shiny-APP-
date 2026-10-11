@@ -17,6 +17,3 @@ R Shiny tool for clinical Title & Footnote metadata recycling, intelligent match
 -	Auxiliary supporting packages: dplyr (v1.2.1) and stringr (v1.6.0) for vectorized data cleansing, text normalization and structured metadata integration;
 -	Additional dependent utilities: DT (0.34.0), readxl (1.5.0), shinyjs (2.1.1) for table rendering, raw Excel reading and frontend page interactive optimization.
   
-## Run
-```r
-shiny::runApp("app_folder")
